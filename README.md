@@ -1,4 +1,5 @@
 # ML Project (ECE 50024 / STAT 59800)
+# Spring 2023
 ## Prachi Modi - modi29@purdue.edu
 ### This project is reimplementation of Conditional GAN which was originally proposed by [Mehdi Mirza and Simon Osindero](https://arxiv.org/abs/1411.1784).
 
